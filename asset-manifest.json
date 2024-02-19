@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alluarjunpatel/patel.ar/static/css/main.e6c13ad2.css",
+    "main.js": "/alluarjunpatel/patel.ar/static/js/main.52abab8f.js",
+    "static/js/453.0b1d0003.chunk.js": "/alluarjunpatel/patel.ar/static/js/453.0b1d0003.chunk.js",
+    "index.html": "/alluarjunpatel/patel.ar/index.html",
+    "main.e6c13ad2.css.map": "/alluarjunpatel/patel.ar/static/css/main.e6c13ad2.css.map",
+    "main.52abab8f.js.map": "/alluarjunpatel/patel.ar/static/js/main.52abab8f.js.map",
+    "453.0b1d0003.chunk.js.map": "/alluarjunpatel/patel.ar/static/js/453.0b1d0003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52abab8f.js"
+  ]
+}
